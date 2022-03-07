@@ -1,34 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@jamesnguyenn
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-Code
-Issues
-Pull requests
-4
-Actions
-Projects
-Wiki
-Security
-Insights
-awesome-github-profile-readme-templates/Adam-pw.md
-@Adam-pw
-Adam-pw Added Adam-pw Username=Adam-pw
-Latest commit cc98fca on Dec 22, 2021
-History
-1 contributor
-111 lines (89 sloc) 6.92 KB
-
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
+<h3 align="center">Student at CyberSoft, Frontend Developer🌟.</h3>
 
 <br>
 
@@ -42,9 +13,9 @@ History
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **nguyenquangthien151095@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact :- food and sports are the reasons to live.
 
 <br>
 
