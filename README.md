@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
-<h3 align="center">Student at CyberSoft, Frontend Developer🌟.</h3>
+<h3 align="center">Graduated at FPT, Software Engineer.</h3>
 
 <br>
 
