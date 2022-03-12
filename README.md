@@ -65,13 +65,6 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
-
-<br>
-
 ---
 
 [James-pw](https://github.com/jamesnguyenn)
