@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
 <h3 align="center">Graduated at CyberSoft College, FrontEnd Developer.</h3>
-<h3 align="center">Visit portfolio: http://james-cv.surge.sh/.</h3>
+<h3 align="center">Visit my portfolio: http://james-cv.surge.sh/.</h3>
 
 <br>
 
